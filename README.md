@@ -5,7 +5,7 @@ In this project we address the task of using Neural Machine Translation to apply
 
 Tools used: Python, Tensorflow, nltk
 
-Experiments:
+Hand-picked examples:
 
 Input: i will hit you !
 Output: i will strike thee !
