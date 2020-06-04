@@ -15,4 +15,4 @@ In this project we address the task of using Neural Machine Translation to apply
 
 **Input**: I am very happy .  **Output**: i am much merry .
 
-**Input**: what do you want ?   **Output**: what s your will ?
+**Input**: what do you want ?   **Output**: what s your will ? 
