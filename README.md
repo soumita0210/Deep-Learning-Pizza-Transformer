@@ -12,9 +12,13 @@ Input: i will hit you !
 Output: i will strike thee !
 
 
+
+
 Input: Don’t worry about me .
 
 Output: fear me not .
+
+
 
 
 Input: What is wrong with you ?
@@ -22,9 +26,13 @@ Input: What is wrong with you ?
 Output: what is thy wrong with thee ?
 
 
+
+
 Input: I am very happy .
 
 Output: i am much merry .
+
+
 
 
 Input: what do you want ? 
